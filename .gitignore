@@ -1,3 +1,5 @@
 in_development/
 hidden/
 venv/
+.idea/
+_pycache__/
